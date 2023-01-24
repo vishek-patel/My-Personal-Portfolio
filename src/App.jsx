@@ -32,7 +32,7 @@ function App() {
        <div>
           <h1 className='text-4xl font-bold text-gray-700 dark:text-gray-400 md:text-6xl'>Hi, I'm Vishek Patel</h1>
           <h3 className=' text-xl text-blue-600 font-semibold py-2 md:text-2xl'>I'm a Full Stack Developer | Designer</h3>
-          <p className='dark:text-white text-sm md:text-lg'> 
+          <p className='dark:text-white text-gray-800 text-sm md:text-lg'> 
             I'm a Full Stack Developer from India. I have a passion for building web applications and learning new technologies.
             I am currently pursuing my BTech Degree from <span> <a href="https://www.lpu.in/" className='text-blue-700 font-semibold'>Lovely Professional University</a></span> with minor in <span>Cyber Security. I am also a </span>
             <a href="https://www.freecodecamp.org/vishekpatel" className='text-blue-700 font-semibold'> freeCodeCamp</a> certified Full Stack Developer.
@@ -271,7 +271,7 @@ export default App
 //     <div className='grid grid-cols-2 gap-4 mt-4 '>
 //       <div className='bg-blue-100 dark:bg-blue-800 rounded-md p-4 drop-shadow-md shadow-blue-600 shadow-inner'>
 //         <h1 className='text-2xl font-bold text-gray-800 dark:text-gray-200'>Frontend</h1>
-//         <ul className='list-disc list-inside mt-2 dark:text-gray-400'>
+//         <ul className='list-disc list-inside mt-2 text-gray-800 dark:text-gray-400'>
 //           <li>HTML</li>
 //           <li>CSS</li>
 //           <li>JavaScript</li>
@@ -284,7 +284,7 @@ export default App
 //       </div>
 //       <div className='bg-blue-100 dark:bg-blue-800 rounded-md p-4 drop-shadow-md shadow-blue-600 shadow-inner'>
 //         <h1 className='text-2xl font-bold text-gray-800 dark:text-gray-200'>Backend</h1>
-//         <ul className='list-disc list-inside mt-2 dark:text-gray-400'>
+//         <ul className='list-disc list-inside mt-2 text-gray-800 dark:text-gray-400'>
 //           <li>Node.js</li>
 //           <li>Express.js</li>
 //           <li>Python</li>
