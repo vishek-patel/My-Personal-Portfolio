@@ -95,7 +95,7 @@ function App() {
               <p className='text-gray-600 dark:text-gray-400'>Built a placement management portal , this system can be accessed throughout the organization with proper login credentials ,Students can register themselves for upcoming placement drives,view latest announcements offered by the organization.</p>
             </div>
             <div className='bg-blue-100 dark:bg-blue-800 rounded-md p-4 drop-shadow-md shadow-blue-600 shadow-inner'>
-              <h1 className='text-2xl font-bold dark:text-gray-200 text-gray-800'>Personal Portfolio</h1>
+              <h1 className='text-2xl font-bold dark:text-gray-200 text-gray-800'><a href="https://github.com/vishek-patel/My-Personal-Portfolio" className='text-gray-800 dark:text-gray-200 font-bold'>Personal Portfolio</a></h1>
               <p className='text-gray-600 dark:text-gray-400'>Built a Personal portfolio website using Next.js and Tailwind CSS  
               to showcase 
               my skills and projects.
