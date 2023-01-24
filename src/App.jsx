@@ -119,7 +119,7 @@ function App() {
           <div className='grid grid-cols-2 gap-4 mt-4 '>
             <div className='bg-blue-100 dark:bg-blue-800 rounded-md p-4 drop-shadow-md shadow-blue-600 shadow-inner'>
               <h1 className='text-2xl font-bold text-gray-800 dark:text-gray-200'>Frontend</h1>
-              <ul className='list-disc list-inside mt-2 dark:text-gray-400 text-gray-800 text-left ml-6 font-semibold md:ml-8'>
+              <ul className='list-disc list-inside mt-2 dark:text-gray-400 text-gray-800 text-left ml-4 font-semibold md:ml-8'>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
@@ -132,7 +132,7 @@ function App() {
             </div>
             <div className='bg-blue-100 dark:bg-blue-800 rounded-md p-4 drop-shadow-md shadow-blue-600 shadow-inner'>
               <h1 className='text-2xl font-bold text-gray-800 dark:text-gray-200'>Backend</h1>
-              <ul className='list-disc list-inside mt-2 dark:text-gray-400 text-gray-800 text-left ml-6 font-semibold md:ml-8'>
+              <ul className='list-disc list-inside mt-2 dark:text-gray-400 text-gray-800 text-left ml-4 font-semibold md:ml-8'>
                 <li>Node.js</li>
                 <li>Express.js</li>
                 <li>Python</li>
